@@ -1,16 +1,4 @@
-# flutter_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 应用介绍
+一款靠谱的实时疫情查询的APP，2019-nCoV全国疫情地图实时显示，各省市实时疫情数据查询，同行程查询，区域定位查询，预防措施、在线医疗等网络资源聚合平台，忠实的记录下全体中国人民在疫情期间的众志成城，愿明天更加美好！
+## 应用下载
+根目录下面的APK文件即为安卓应用，请放心下载！
